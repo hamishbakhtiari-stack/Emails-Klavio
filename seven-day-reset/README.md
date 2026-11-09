@@ -1,13 +1,14 @@
 # 7-Day Reset Program emails
 
 One master template (`template.html`) plus per-day content (`content.json`) builds the
-seven emails of the SitComfort 7-Day Reset Klaviyo flow.
+eight emails of the SitComfort 7-Day Reset Klaviyo flow: Day 0 (welcome, sent on delivery)
+and Days 1–7 (one each morning).
 
 ## Edit and rebuild
 
 1. Change copy, video IDs, links, signer or colours in `content.json`.
 2. Run `python3 seven-day-reset/build.py`.
-3. The emails are written to `dist/day-1.html` … `dist/day-7.html`.
+3. The emails are written to `dist/day-0.html` … `dist/day-7.html`.
 
 ## Put them in Klaviyo
 

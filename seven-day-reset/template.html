@@ -30,7 +30,7 @@
     <tr><td class="px" style="padding:4px 36px 18px 36px;">
       <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0"><tr>
         <td align="left" valign="middle"><a href="${site_url}"><img src="${logo_url}" width="120" alt="${brand_name}" style="display:block;border:0;width:120px;height:auto;"></a></td>
-        <td align="right" valign="middle" style="font-size:13px;line-height:18px;color:${c_muted};letter-spacing:0.04em;text-transform:uppercase;">7-Day Reset &middot; Day ${day} of ${total}</td>
+        <td align="right" valign="middle" style="font-size:13px;line-height:18px;color:${c_muted};letter-spacing:0.04em;text-transform:uppercase;">${counter}</td>
       </tr></table>
     </td></tr>
 
@@ -45,8 +45,9 @@
 
         <!-- Title + intro -->
         <tr><td class="px" style="padding:26px 36px 6px 36px;">
-          <p style="margin:0 0 6px 0;font-size:13px;line-height:18px;font-weight:700;color:${c_accent};letter-spacing:0.06em;text-transform:uppercase;">Day ${day}</p>
-          <h1 class="h1" style="margin:0 0 16px 0;font-size:30px;line-height:36px;font-weight:700;color:${c_ink};">${title}</h1>
+          <p style="margin:0 0 6px 0;font-size:13px;line-height:18px;font-weight:700;color:${c_accent};letter-spacing:0.06em;text-transform:uppercase;">${eyebrow}</p>
+          <h1 class="h1" style="margin:0 0 4px 0;font-size:30px;line-height:36px;font-weight:700;color:${c_ink};">${title}</h1>
+          <p style="margin:0 0 18px 0;font-size:15px;line-height:22px;color:${c_muted};">(${subtitle})</p>
           <p style="margin:0 0 14px 0;font-size:16px;line-height:25px;color:${c_ink};">Hi {{ first_name|default:'there' }},</p>
           <p style="margin:0;font-size:16px;line-height:25px;color:${c_ink};">${intro}</p>
         </td></tr>
@@ -61,7 +62,7 @@
         <tr><td class="px" align="left" style="padding:4px 36px 26px 36px;">
           <table role="presentation" cellpadding="0" cellspacing="0" border="0"><tr>
             <td style="border-radius:8px;background-color:${c_accent};">
-              <a href="${video_url}" style="display:inline-block;padding:13px 22px;font-size:16px;line-height:20px;font-weight:600;color:#FFFFFF;text-decoration:none;border-radius:8px;">&#9654;&nbsp; ${video_label}</a>
+              <a href="${cta_url}" style="display:inline-block;padding:13px 22px;font-size:16px;line-height:20px;font-weight:600;color:#FFFFFF;text-decoration:none;border-radius:8px;">${cta_label}</a>
             </td>
           </tr></table>
         </td></tr>
