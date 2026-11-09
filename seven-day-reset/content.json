@@ -222,25 +222,30 @@
     {
       "day": 5,
       "subject": "Day 5 of 7: quick desk stretches that release tension",
-      "preview": "Chin tucks, thoracic rotations and more. Do them right at your desk.",
+      "preview": "Chest opener, chin tucks, hip flexor stretch and thoracic rotation, right at your desk.",
       "title": "Move Better, Feel Better",
-      "intro": "Even good posture gets stiff if you hold it all day. Today's video walks you through a short stretch routine you can do right at your desk, no gym gear needed.",
-      "focus_label": "In today's routine",
+      "intro": "Even good posture gets stiff if you hold it all day. Today's video walks you through four quick stretches you can do right at your desk, no gym gear needed.",
+      "focus_label": "Today's 4 stretches",
       "steps": [
         [
-          "Chin tucks",
-          "Gently draw your chin straight back, as if making a double chin. Great for neck tension after screen time.",
+          "1. Chest opener",
+          "Opens up the front of your shoulders after hours hunched over a keyboard.",
+          "2b3df2df-26c0-4042-9a50-d493b31beba6"
+        ],
+        [
+          "2. Chin tucks",
+          "Gently draw your chin straight back, as if making a double chin. Great for neck tension from screen time.",
           "ddd12250-ef00-41d8-b868-d40bc4cb2ebb"
         ],
         [
-          "Thoracic rotation, 5 each side",
-          "One hand behind your head, sit tall and rotate through your upper back.",
-          "c91c1229-7485-41f9-b489-d8a610ac375b"
+          "3. Hip flexor stretch",
+          "Releases the front of your hips, which tighten up when you sit for long periods.",
+          "3c062f05-12c8-4fd5-bc00-bbc5313f967a"
         ],
         [
-          "Follow along with the full routine",
-          "The video shows every stretch in order. It takes a couple of minutes.",
-          "806c1274-71b3-46a3-82c8-c6ddb6ebc5a9"
+          "4. Thoracic rotation, 5 each side",
+          "One hand behind your head, sit tall and rotate through your upper back.",
+          "c91c1229-7485-41f9-b489-d8a610ac375b"
         ]
       ],
       "tip": "Pair the routine with something you already do, like your mid-morning coffee, so it sticks.",
@@ -271,7 +276,7 @@
         ],
         [
           "Move",
-          "Stand every 60–90 minutes and run through your Day 5 desk stretches.",
+          "Stand every 60–90 minutes and run through your 4 desk stretches from Day 5.",
           "806c1274-71b3-46a3-82c8-c6ddb6ebc5a9"
         ]
       ],
@@ -315,7 +320,6 @@
       "tip": "Bookmark the 7-Day Reset page. Run through it again any time things start to slip.",
       "reply_prompt": "We'd love to hear your before and after. Reply with one thing that changed for you this week. It genuinely makes our day.",
       "tomorrow": "",
-      "finale": true,
       "subtitle": "Your Results & Keeping It Going",
       "cta_url": "https://youtube.com/shorts/FbPQvwF0aw0",
       "cta_label": "Watch: 7 Days, One Simple System",

@@ -105,6 +105,11 @@ def build(day: dict) -> str:
         "reply_prompt": esc(day["reply_prompt"]),
         "note_block": para(esc(day["note"]), c["ink"], bold=True) if day.get("note") else "",
         "tomorrow_block": para(esc(day["tomorrow"]), c["muted"], italic=True) if day.get("tomorrow") else "",
+        "library_block": (
+            f'<tr><td class="px" style="padding:0 32px 22px 32px;font-size:15px;line-height:22px;color:{c["muted"]};">'
+            f'Missed a day? <a href="{b["program_url"]}" style="color:{c["accent"]};font-weight:700;">'
+            f'Watch all 7 videos on the 7-Day Reset page &rsaquo;</a></td></tr>'
+        ) if n > 0 else "",
         "finale_block": para(
             f'Want to run through it again? <a href="{b["program_url"]}" style="color:{c["accent"]};">'
             f"The full 7-Day Reset is here</a>.", c["muted"]) if day.get("finale") else "",
