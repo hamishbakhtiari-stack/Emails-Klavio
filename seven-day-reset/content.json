@@ -26,16 +26,29 @@
       "intro": "Welcome to your 7-Day Reset. Over the next week you'll get one short, practical step each morning. Today is the base everything else builds on: how you actually sit.",
       "focus_label": "Today's 4 checks",
       "steps": [
-        ["Feet flat on the floor", "Not crossed, not tucked under the chair."],
-        ["Hips all the way back", "Sit on your sit bones, not your tailbone."],
-        ["Shoulders back and down", "Away from your ears, relaxed rather than pulled."],
-        ["Ears over shoulders", "Think tall, not stiff."]
+        [
+          "Feet flat on the floor",
+          "Not crossed, not tucked under the chair."
+        ],
+        [
+          "Hips all the way back",
+          "Sit on your sit bones, not your tailbone."
+        ],
+        [
+          "Shoulders back and down",
+          "Away from your ears, relaxed rather than pulled."
+        ],
+        [
+          "Ears over shoulders",
+          "Think tall, not stiff."
+        ]
       ],
       "video_id": "PA9xLCHpToY",
       "video_label": "Watch the Day 1 video (60 sec)",
       "tip": "Try the four checks now, while you read this. Then once more after lunch.",
       "reply_prompt": "Quick question: where do you feel it most after a long sit? Lower back, neck, or hips? Just hit reply. We read every message.",
-      "tomorrow": "Tomorrow: setting up your cushion and lumbar support so good posture takes less effort."
+      "tomorrow": "Tomorrow: setting up your cushion and lumbar support so good posture takes less effort.",
+      "note": "One small favour: if this email landed in your Promotions tab, drag it into Primary so you don't miss Day 2."
     },
     {
       "day": 2,
@@ -45,9 +58,18 @@
       "intro": "Yesterday you set your alignment. Today we add the support layer, so holding that position stops feeling like work.",
       "focus_label": "Today's 3 steps",
       "steps": [
-        ["Place the seat cushion at the back", "Push it right into the back of the seat so your tailbone sits in the cut-out."],
-        ["Set the lumbar support at belt height", "It should meet the natural curve of your lower back."],
-        ["Lean back and let it work", "The support holds your spine so your muscles can relax."]
+        [
+          "Place the seat cushion at the back",
+          "Push it right into the back of the seat so your tailbone sits in the cut-out."
+        ],
+        [
+          "Set the lumbar support at belt height",
+          "It should meet the natural curve of your lower back."
+        ],
+        [
+          "Lean back and let it work",
+          "The support holds your spine so your muscles can relax."
+        ]
       ],
       "video_id": "Nh12neSmsQo",
       "video_label": "Watch the Day 2 setup video",
@@ -63,9 +85,18 @@
       "intro": "Your workspace either supports your posture or pulls you out of it. Today's tweaks take five minutes and stop the forward lean that undoes your setup.",
       "focus_label": "Today's 3 adjustments",
       "steps": [
-        ["Screen at arm's length", "The top of the screen at, or just below, eye level."],
-        ["Chair height for 90° elbows", "Hands rest on the keyboard with elbows bent at about a right angle."],
-        ["Keyboard and mouse close", "Wrists neutral, mouse right next to the keyboard."]
+        [
+          "Screen at arm's length",
+          "The top of the screen at, or just below, eye level."
+        ],
+        [
+          "Chair height for 90° elbows",
+          "Hands rest on the keyboard with elbows bent at about a right angle."
+        ],
+        [
+          "Keyboard and mouse close",
+          "Wrists neutral, mouse right next to the keyboard."
+        ]
       ],
       "video_id": "lKDb3HoqK4E",
       "video_label": "Watch the Day 3 workspace video",
@@ -81,9 +112,18 @@
       "intro": "Your setup is done. Now for the part that makes it last: small, regular resets so slouching never gets the chance to settle in.",
       "focus_label": "Today's 3 habits",
       "steps": [
-        ["The 20/20 reset", "Every 20 minutes, take 20 seconds to re-check your posture."],
-        ["Reset in three moves", "Sit tall, roll your shoulders back and down, tuck your chin slightly."],
-        ["Get up every 90 minutes", "Stand, stretch, walk, grab water. Movement is medicine."]
+        [
+          "The 20/20 reset",
+          "Every 20 minutes, take 20 seconds to re-check your posture."
+        ],
+        [
+          "Reset in three moves",
+          "Sit tall, roll your shoulders back and down, tuck your chin slightly."
+        ],
+        [
+          "Get up every 90 minutes",
+          "Stand, stretch, walk, grab water. Movement is medicine."
+        ]
       ],
       "video_id": "BSy7Axk_suA",
       "video_label": "Watch the Day 4 habit video",
@@ -99,9 +139,18 @@
       "intro": "Even perfect posture gets stiff if you hold it all day. Today is about adding small amounts of movement through your day.",
       "focus_label": "Today's 3 movements",
       "steps": [
-        ["Stand 2 to 3 minutes every hour", "Phone calls are a great time to stand."],
-        ["Add simple stretches", "Neck rolls, shoulder rolls and a gentle back stretch."],
-        ["Hydrate and breathe", "Drink water, take a few slow, deep breaths. Awareness is half the work."]
+        [
+          "Stand 2 to 3 minutes every hour",
+          "Phone calls are a great time to stand."
+        ],
+        [
+          "Add simple stretches",
+          "Neck rolls, shoulder rolls and a gentle back stretch."
+        ],
+        [
+          "Hydrate and breathe",
+          "Drink water, take a few slow, deep breaths. Awareness is half the work."
+        ]
       ],
       "video_id": "rtztyqiaLss",
       "video_label": "Watch the Day 5 movement video",
@@ -117,9 +166,18 @@
       "intro": "Good posture isn't only about sitting right. It's about having the strength to stay that way without thinking about it.",
       "focus_label": "Today's 3 steps",
       "steps": [
-        ["Gently engage your core", "Like zipping up a fitted pair of jeans. Relaxed, not rigid."],
-        ["Strengthen your upper back", "Shoulder-blade squeezes and chest openers counter long hours at a desk."],
-        ["Build gradually", "A few minutes a day beats one big session. Consistency over intensity."]
+        [
+          "Gently engage your core",
+          "Like zipping up a fitted pair of jeans. Relaxed, not rigid."
+        ],
+        [
+          "Strengthen your upper back",
+          "Shoulder-blade squeezes and chest openers counter long hours at a desk."
+        ],
+        [
+          "Build gradually",
+          "A few minutes a day beats one big session. Consistency over intensity."
+        ]
       ],
       "video_id": "N2rnrCs0v0A",
       "video_label": "Watch the Day 6 strength video",
@@ -135,10 +193,22 @@
       "intro": "You've built the foundation, set up your support and started new habits. That's a real change. Today is about making it stick.",
       "focus_label": "Your 4 habits from here",
       "steps": [
-        ["Keep your posture resets", "The 20/20 check is the single most useful habit from this week."],
-        ["Recover with movement", "Walk, stretch or do light strength work most days."],
-        ["Listen to your body", "Discomfort is a signal, not a failure. Adjust and reset."],
-        ["Let your support do the work", "Your cushion and lumbar support keep you aligned every day."]
+        [
+          "Keep your posture resets",
+          "The 20/20 check is the single most useful habit from this week."
+        ],
+        [
+          "Recover with movement",
+          "Walk, stretch or do light strength work most days."
+        ],
+        [
+          "Listen to your body",
+          "Discomfort is a signal, not a failure. Adjust and reset."
+        ],
+        [
+          "Let your support do the work",
+          "Your cushion and lumbar support keep you aligned every day."
+        ]
       ],
       "video_id": "FbPQvwF0aw0",
       "video_label": "Watch the Day 7 video",

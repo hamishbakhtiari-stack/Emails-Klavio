@@ -6,6 +6,7 @@ Edit content.json (copy, links, colours), then run:
 Output: seven-day-reset/dist/day-1.html ... day-7.html (ready to import into Klaviyo).
 """
 import html
+import re
 import json
 import pathlib
 import string
@@ -63,6 +64,12 @@ def build(day: dict) -> str:
         if day.get("finale")
         else ""
     )
+    note = (
+        f'<p style="margin:0 0 14px 0;font-size:15px;line-height:22px;color:{c["ink"]};">'
+        f'<strong>{esc(day["note"])}</strong></p>'
+        if day.get("note")
+        else ""
+    )
     fields = {
         **{f"c_{k}": v for k, v in c.items()},
         "brand_name": esc(b["name"]),
@@ -86,9 +93,22 @@ def build(day: dict) -> str:
         "reply_prompt": esc(day["reply_prompt"]),
         "tomorrow_block": tomorrow,
         "finale_block": finale,
+        "note_block": note,
         "progress": progress_bar(day["day"], c),
     }
     return string.Template(TEMPLATE).substitute(fields)
+
+
+def to_block(full_html: str) -> str:
+    """Body content + responsive <style>, minified, for a Klaviyo drag-and-drop HTML block."""
+    style = re.search(r"<style>.*?</style>", full_html, re.S).group(0)
+    body = re.search(r"<body[^>]*>(.*)</body>", full_html, re.S).group(1)
+    out = style + body
+    out = re.sub(r"<!--.*?-->", "", out, flags=re.S)
+    out = re.sub(r">\s+<", "><", out)
+    out = re.sub(r"\s+", " ", out).strip()
+    # single-quoted attributes so the block can be pasted into JSON without escaping
+    return re.sub(r'(\s[\w-]+)="([^"\']*)"', r"\1='\2'", out)
 
 
 def main():
@@ -96,7 +116,9 @@ def main():
     out.mkdir(exist_ok=True)
     for day in DATA["days"]:
         path = out / f"day-{day['day']}.html"
-        path.write_text(build(day))
+        full = build(day)
+        path.write_text(full)
+        (out / f"day-{day['day']}.block.html").write_text(to_block(full))
         print(f"wrote {path.relative_to(ROOT.parent)}  ({path.stat().st_size // 1024} KB)  subject: {day['subject']}")
 
 
