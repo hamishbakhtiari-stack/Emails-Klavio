@@ -29,10 +29,10 @@
     {
       "day": 0,
       "subject": "Your SitComfort has arrived. Your 7-Day Reset starts tomorrow",
-      "preview": "One short step and a 60-second video each morning. Here's your week.",
+      "preview": "One short step and a short video each morning. Here's your week.",
       "title": "Welcome to Your 7-Day Reset",
       "subtitle": "What to Expect This Week",
-      "intro": "Your order has been delivered. It comes with our free 7-Day Reset: one short step and a 60-second video each morning for a week, to help you sit comfortably for longer.",
+      "intro": "Your order has been delivered. It comes with our free 7-Day Reset: one short step and a short video each morning for a week, to help you sit comfortably for longer.",
       "focus_label": "Your week at a glance",
       "steps": [
         [
@@ -55,25 +55,25 @@
         ],
         [
           "Breaking the Slouch Habit",
-          "The 20/20 Rule & Daily Posture Resets",
+          "The 20/20 Rule & Standing Every 60–90 Min",
           "61792fb9-7de7-4877-9b6d-50c3a5fd1844",
           "Day 4"
         ],
         [
           "Move Better, Feel Better",
-          "Daily Movement & Posture Reset",
+          "Quick Desk Stretches",
           "d2c1da48-538d-446a-b020-c65aa0aedf32",
           "Day 5"
         ],
         [
-          "Build Strength, Not Strain",
-          "Core Support & Posture Endurance",
+          "Reset. Work. Move.",
+          "Your Full Daily Routine",
           "82d28615-166c-4399-ad14-b3675493613c",
           "Day 6"
         ],
         [
-          "Reset, Recover & Keep It Going",
-          "Long-Term Habits for Lasting Results",
+          "7 Days, One Simple System",
+          "Your Results & Keeping It Going",
           "bd7fcece-2538-4830-b49d-074c90199244",
           "Day 7"
         ]
@@ -133,7 +133,7 @@
       "steps": [
         [
           "Place the seat cushion at the back",
-          "Push it right into the back of the seat so your tailbone sits in the cut-out.",
+          "Push it right into the back of the seat, not floating forward. Your hips tilt slightly forward and your spine stacks naturally.",
           "b6dbd3e6-cd9e-42c8-9d6d-509c2c299f45"
         ],
         [
@@ -206,95 +206,95 @@
           "07eda3a8-50c1-4c43-90fc-e098b7df7447"
         ],
         [
-          "Get up every 90 minutes",
-          "Stand, stretch, walk, grab water. Movement is medicine.",
+          "Stand every 60–90 minutes",
+          "Get up, stretch, walk, grab water. Movement is medicine.",
           "83d27576-cea1-4e4c-9f0d-28db02555229"
         ]
       ],
       "tip": "Set a silent 20-minute repeating timer on your phone or watch for the next two days. After that it starts to become automatic.",
       "reply_prompt": "Halfway there. On a scale of 1 to 10, how does sitting feel compared with Day 1? Reply with a number.",
-      "tomorrow": "Tomorrow: simple movement to release tension.",
-      "subtitle": "The 20/20 Rule & Daily Posture Resets",
+      "tomorrow": "Tomorrow: quick desk stretches to release tension.",
+      "subtitle": "The 20/20 Rule & Standing Every 60–90 Min",
       "cta_url": "https://youtube.com/shorts/BSy7Axk_suA",
       "cta_label": "Watch: Breaking the Slouch Habit",
       "hero_icon": "61792fb9-7de7-4877-9b6d-50c3a5fd1844"
     },
     {
       "day": 5,
-      "subject": "Day 5 of 7: move better, feel better",
-      "preview": "Three easy movements to release desk tension.",
+      "subject": "Day 5 of 7: quick desk stretches that release tension",
+      "preview": "Chin tucks, thoracic rotations and more. Do them right at your desk.",
       "title": "Move Better, Feel Better",
-      "intro": "Even perfect posture gets stiff if you hold it all day. Today is about adding small amounts of movement through your day.",
-      "focus_label": "Today's 3 movements",
+      "intro": "Even good posture gets stiff if you hold it all day. Today's video walks you through a short stretch routine you can do right at your desk, no gym gear needed.",
+      "focus_label": "In today's routine",
       "steps": [
         [
-          "Stand 2 to 3 minutes every hour",
-          "Phone calls are a great time to stand.",
-          "57cba9eb-ae4a-4b31-831a-35fc14c3b024"
+          "Chin tucks",
+          "Gently draw your chin straight back, as if making a double chin. Great for neck tension after screen time.",
+          "ddd12250-ef00-41d8-b868-d40bc4cb2ebb"
         ],
         [
-          "Add simple stretches",
-          "Neck rolls, shoulder rolls and a gentle back stretch.",
+          "Thoracic rotation, 5 each side",
+          "One hand behind your head, sit tall and rotate through your upper back.",
+          "c91c1229-7485-41f9-b489-d8a610ac375b"
+        ],
+        [
+          "Follow along with the full routine",
+          "The video shows every stretch in order. It takes a couple of minutes.",
           "806c1274-71b3-46a3-82c8-c6ddb6ebc5a9"
-        ],
-        [
-          "Hydrate and breathe",
-          "Drink water, take a few slow, deep breaths. Awareness is half the work.",
-          "703412dc-719c-4a85-aa20-38100575bad6"
         ]
       ],
-      "tip": "Your cushion and lumbar support keep you aligned when you sit back down, so movement and support work together.",
-      "reply_prompt": "Which stretch felt best? Reply and let us know. It helps us improve the program.",
-      "tomorrow": "Tomorrow: building the strength to hold good posture.",
-      "subtitle": "Daily Movement & Posture Reset",
+      "tip": "Pair the routine with something you already do, like your mid-morning coffee, so it sticks.",
+      "reply_prompt": "Which stretch did you feel the most? Reply and let us know.",
+      "tomorrow": "Tomorrow: putting it all together into one daily routine.",
+      "subtitle": "Quick Desk Stretches",
       "cta_url": "https://youtube.com/shorts/rtztyqiaLss",
       "cta_label": "Watch: Move Better, Feel Better",
       "hero_icon": "d2c1da48-538d-446a-b020-c65aa0aedf32"
     },
     {
       "day": 6,
-      "subject": "Day 6 of 7: build strength, not strain",
-      "preview": "Gentle core and back work so good posture lasts.",
-      "title": "Build Strength, Not Strain",
-      "intro": "Good posture isn't only about sitting right. It's about having the strength to stay that way without thinking about it.",
-      "focus_label": "Today's 3 steps",
+      "subject": "Day 6 of 7: reset, work, move (your daily routine)",
+      "preview": "How the whole week fits into one simple workday routine.",
+      "title": "Reset. Work. Move.",
+      "intro": "You've learned the pieces. Today's video shows how they fit together into one simple routine for your workday, so it happens without thinking about it.",
+      "focus_label": "Your routine",
       "steps": [
         [
-          "Gently engage your core",
-          "Like zipping up a fitted pair of jeans. Relaxed, not rigid.",
-          "813b1dc9-33d6-4310-a832-b617d22d49a0"
+          "Reset",
+          "Start each work block with your Day 1 checks, cushion and lumbar support in place.",
+          "632b40d8-31ad-4aed-87c8-6cb1807cda4b"
         ],
         [
-          "Strengthen your upper back",
-          "Shoulder-blade squeezes and chest openers counter long hours at a desk.",
-          "c91c1229-7485-41f9-b489-d8a610ac375b"
+          "Work",
+          "Screen at eye level, elbows at 90°. Use the 20/20 rule to catch slouching early.",
+          "5e3180e7-3852-4084-a411-98ba310a609f"
         ],
         [
-          "Build gradually",
-          "A few minutes a day beats one big session. Consistency over intensity.",
-          "6abeb76f-4913-4c70-82f6-527cd1d67d45"
+          "Move",
+          "Stand every 60–90 minutes and run through your Day 5 desk stretches.",
+          "806c1274-71b3-46a3-82c8-c6ddb6ebc5a9"
         ]
       ],
-      "tip": "Do 10 shoulder-blade squeezes every time you refill your water. That's your whole workout.",
-      "reply_prompt": "Any exercise you'd like us to explain in more detail? Just reply.",
-      "tomorrow": "Tomorrow: the last day, and how to keep it going.",
-      "subtitle": "Core Support & Posture Endurance",
+      "tip": "Write \"Reset. Work. Move.\" on a sticky note and put it on your screen for the next week.",
+      "reply_prompt": "Which part of the routine is hardest to stick to? Reply and tell us. We might have a tip.",
+      "tomorrow": "Tomorrow: the last day, and what changed in 7 days.",
+      "subtitle": "Your Full Daily Routine",
       "cta_url": "https://youtube.com/shorts/N2rnrCs0v0A",
-      "cta_label": "Watch: Build Strength, Not Strain",
+      "cta_label": "Watch: Reset. Work. Move.",
       "hero_icon": "82d28615-166c-4399-ad14-b3675493613c"
     },
     {
       "day": 7,
-      "subject": "Day 7 of 7: you did it. Here's how to keep it going",
-      "preview": "The four habits that make this week stick.",
-      "title": "Reset, Recover & Keep It Going",
-      "intro": "You've built the foundation, set up your support and started new habits. That's a real change. Today is about making it stick.",
+      "subject": "Day 7 of 7: look how far you've come",
+      "preview": "Compare how you sat 7 days ago, and how to keep it going.",
+      "title": "7 Days, One Simple System",
+      "intro": "Think back to how you sat 7 days ago. In today's video we compare before and after, and show the simple system that made the difference.",
       "focus_label": "Your 4 habits from here",
       "steps": [
         [
           "Keep your posture resets",
           "The 20/20 check is the single most useful habit from this week.",
-          "632b40d8-31ad-4aed-87c8-6cb1807cda4b"
+          "9869631c-ce4e-43f4-87ab-0aaae373df2c"
         ],
         [
           "Recover with movement",
@@ -313,12 +313,12 @@
         ]
       ],
       "tip": "Bookmark the 7-Day Reset page. Run through it again any time things start to slip.",
-      "reply_prompt": "We'd love to hear how your week went. Reply with one thing that changed for you. It genuinely makes our day.",
+      "reply_prompt": "We'd love to hear your before and after. Reply with one thing that changed for you this week. It genuinely makes our day.",
       "tomorrow": "",
       "finale": true,
-      "subtitle": "Long-Term Habits for Lasting Results",
+      "subtitle": "Your Results & Keeping It Going",
       "cta_url": "https://youtube.com/shorts/FbPQvwF0aw0",
-      "cta_label": "Watch: Reset, Recover & Keep It Going",
+      "cta_label": "Watch: 7 Days, One Simple System",
       "hero_icon": "bd7fcece-2538-4830-b49d-074c90199244"
     }
   ]

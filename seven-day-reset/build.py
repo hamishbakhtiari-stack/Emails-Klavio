@@ -96,7 +96,7 @@ def build(day: dict) -> str:
         "progress": progress_bar(n, c),
         "cta_url": day["cta_url"],
         "cta_label": esc(day["cta_label"]),
-        "cta_eyebrow": "Today's video &middot; 60 sec" if is_video else "Your program page",
+        "cta_eyebrow": "Today's video" if is_video else "Your program page",
         "cta_icon": img(base + b["icons"]["play"] + ".png", 42) if is_video
         else img(base + b["icons"]["tip"] + ".png", 42),
         "tip": esc(day["tip"]),
