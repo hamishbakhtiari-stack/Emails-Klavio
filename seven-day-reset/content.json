@@ -8,13 +8,21 @@
     "signer_name": "The SitComfort team",
     "signer_role": "Your 7-Day Reset coaches",
     "colors": {
-      "page_bg": "#F4F1EA",
+      "page_bg": "#F1F1EB",
       "card_bg": "#FFFFFF",
-      "ink": "#1F2A2E",
-      "muted": "#5D6B70",
-      "accent": "#2F6F6A",
-      "accent_soft": "#E6F0EE",
-      "rule": "#E4DED2"
+      "ink": "#1E2A22",
+      "muted": "#5B6656",
+      "accent": "#3C532C",
+      "accent_soft": "#EFF1E5",
+      "row_bg": "#F7F8F2",
+      "rule": "#DCDFD0",
+      "teal": "#318995"
+    },
+    "image_base": "https://d3k81ch9hvuctc.cloudfront.net/company/XCVi88/images/",
+    "icons": {
+      "play": "a03c42d5-8c1b-42ec-9869-dfc917fe6530",
+      "tip": "bd06b545-a217-4ed4-9969-e5cd1812f0dc",
+      "help": "2a74ffc3-4ef0-489b-bb6b-097a2da81035"
     }
   },
   "days": [
@@ -28,32 +36,46 @@
       "focus_label": "Your week at a glance",
       "steps": [
         [
-          "Day 1: Your Sitting Foundation",
-          "Foot, Hip & Shoulder Alignment"
+          "Your Sitting Foundation",
+          "Foot, Hip & Shoulder Alignment",
+          "ffca4366-76d4-4e33-a453-acb5debb78c0",
+          "Day 1"
         ],
         [
-          "Day 2: Setting Up Your Support",
-          "Cushion + Lumbar Positioning"
+          "Setting Up Your Support",
+          "Cushion + Lumbar Positioning",
+          "e0187e29-df0d-41b9-8ea6-9e3f081abce1",
+          "Day 2"
         ],
         [
-          "Day 3: Screen, Desk & Keyboard Setup",
-          "Monitor Height, Depth & Peripherals"
+          "Screen, Desk & Keyboard Setup",
+          "Monitor Height, Depth & Peripherals",
+          "ecfd236c-a717-4426-8c20-4816b6ad7ff9",
+          "Day 3"
         ],
         [
-          "Day 4: Breaking the Slouch Habit",
-          "The 20/20 Rule & Daily Posture Resets"
+          "Breaking the Slouch Habit",
+          "The 20/20 Rule & Daily Posture Resets",
+          "61792fb9-7de7-4877-9b6d-50c3a5fd1844",
+          "Day 4"
         ],
         [
-          "Day 5: Move Better, Feel Better",
-          "Daily Movement & Posture Reset"
+          "Move Better, Feel Better",
+          "Daily Movement & Posture Reset",
+          "d2c1da48-538d-446a-b020-c65aa0aedf32",
+          "Day 5"
         ],
         [
-          "Day 6: Build Strength, Not Strain",
-          "Core Support & Posture Endurance"
+          "Build Strength, Not Strain",
+          "Core Support & Posture Endurance",
+          "82d28615-166c-4399-ad14-b3675493613c",
+          "Day 6"
         ],
         [
-          "Day 7: Reset, Recover & Keep It Going",
-          "Long-Term Habits for Lasting Results"
+          "Reset, Recover & Keep It Going",
+          "Long-Term Habits for Lasting Results",
+          "bd7fcece-2538-4830-b49d-074c90199244",
+          "Day 7"
         ]
       ],
       "cta_url": "https://www.sitcomfort.com.au/pages/7-day-reset",
@@ -61,7 +83,8 @@
       "tip": "For today, just unpack and use your cushion as normal. Tomorrow we start from the ground up.",
       "reply_prompt": "Before we start: what brought you to SitComfort? Back pain, long workdays, lots of driving? Hit reply and tell us, so we can help with your situation.",
       "note": "One small favour: if this email landed in your Promotions tab, drag it into Primary so you don't miss tomorrow's Day 1.",
-      "tomorrow": "Tomorrow morning: Day 1, Your Sitting Foundation."
+      "tomorrow": "Tomorrow morning: Day 1, Your Sitting Foundation.",
+      "hero_icon": "a4872cb0-5a98-412c-a990-f1b41245d038"
     },
     {
       "day": 1,
@@ -73,19 +96,23 @@
       "steps": [
         [
           "Feet flat on the floor",
-          "Not crossed, not tucked under the chair."
+          "Not crossed, not tucked under the chair.",
+          "c4998ad5-33e4-4d26-ab34-44718ec8efec"
         ],
         [
           "Hips all the way back",
-          "Sit on your sit bones, not your tailbone."
+          "Sit on your sit bones, not your tailbone.",
+          "3c062f05-12c8-4fd5-bc00-bbc5313f967a"
         ],
         [
           "Shoulders back and down",
-          "Away from your ears, relaxed rather than pulled."
+          "Away from your ears, relaxed rather than pulled.",
+          "20bc7e1c-2a0a-458b-b6b5-bd48e1d28bc2"
         ],
         [
           "Ears over shoulders",
-          "Think tall, not stiff."
+          "Think tall, not stiff.",
+          "ddd12250-ef00-41d8-b868-d40bc4cb2ebb"
         ]
       ],
       "tip": "Try the four checks now, while you read this. Then once more after lunch.",
@@ -93,7 +120,8 @@
       "tomorrow": "Tomorrow: setting up your cushion and lumbar support so good posture takes less effort.",
       "subtitle": "Foot, Hip & Shoulder Alignment",
       "cta_url": "https://youtube.com/shorts/PA9xLCHpToY",
-      "cta_label": "Watch the Day 1 video (60 sec)"
+      "cta_label": "Watch: Your Sitting Foundation",
+      "hero_icon": "ffca4366-76d4-4e33-a453-acb5debb78c0"
     },
     {
       "day": 2,
@@ -105,15 +133,18 @@
       "steps": [
         [
           "Place the seat cushion at the back",
-          "Push it right into the back of the seat so your tailbone sits in the cut-out."
+          "Push it right into the back of the seat so your tailbone sits in the cut-out.",
+          "b6dbd3e6-cd9e-42c8-9d6d-509c2c299f45"
         ],
         [
           "Set the lumbar support at belt height",
-          "It should meet the natural curve of your lower back."
+          "It should meet the natural curve of your lower back.",
+          "3dadc05d-8872-48d4-8733-4dc9ca72878e"
         ],
         [
           "Lean back and let it work",
-          "The support holds your spine so your muscles can relax."
+          "The support holds your spine so your muscles can relax.",
+          "7a19f64e-d85d-4ecd-92e1-d10d4bcb2ced"
         ]
       ],
       "tip": "If it feels odd for the first hour, that's normal. Your body is getting used to sitting upright again.",
@@ -121,7 +152,8 @@
       "tomorrow": "Tomorrow: your screen, desk and keyboard.",
       "subtitle": "Cushion + Lumbar Positioning",
       "cta_url": "https://youtube.com/shorts/Nh12neSmsQo",
-      "cta_label": "Watch the Day 2 setup video"
+      "cta_label": "Watch: Setting Up Your Support",
+      "hero_icon": "e0187e29-df0d-41b9-8ea6-9e3f081abce1"
     },
     {
       "day": 3,
@@ -133,15 +165,18 @@
       "steps": [
         [
           "Screen at arm's length",
-          "The top of the screen at, or just below, eye level."
+          "The top of the screen at, or just below, eye level.",
+          "ebd01556-119e-411d-bcbb-b4ea1acbf04d"
         ],
         [
           "Chair height for 90° elbows",
-          "Hands rest on the keyboard with elbows bent at about a right angle."
+          "Hands rest on the keyboard with elbows bent at about a right angle.",
+          "7a57a4b3-6038-4fe6-98d5-64d8786c7e64"
         ],
         [
           "Keyboard and mouse close",
-          "Wrists neutral, mouse right next to the keyboard."
+          "Wrists neutral, mouse right next to the keyboard.",
+          "5e3180e7-3852-4084-a411-98ba310a609f"
         ]
       ],
       "tip": "On a laptop? A stack of books under it plus a cheap external keyboard makes a big difference.",
@@ -149,7 +184,8 @@
       "tomorrow": "Tomorrow: breaking the slouch habit.",
       "subtitle": "Monitor Height, Depth & Peripherals",
       "cta_url": "https://youtube.com/shorts/lKDb3HoqK4E",
-      "cta_label": "Watch the Day 3 workspace video"
+      "cta_label": "Watch: Screen, Desk & Keyboard Setup",
+      "hero_icon": "ecfd236c-a717-4426-8c20-4816b6ad7ff9"
     },
     {
       "day": 4,
@@ -161,15 +197,18 @@
       "steps": [
         [
           "The 20/20 reset",
-          "Every 20 minutes, take 20 seconds to re-check your posture."
+          "Every 20 minutes, take 20 seconds to re-check your posture.",
+          "46e1acc9-1c2b-4517-806d-3696868b71b8"
         ],
         [
           "Reset in three moves",
-          "Sit tall, roll your shoulders back and down, tuck your chin slightly."
+          "Sit tall, roll your shoulders back and down, tuck your chin slightly.",
+          "07eda3a8-50c1-4c43-90fc-e098b7df7447"
         ],
         [
           "Get up every 90 minutes",
-          "Stand, stretch, walk, grab water. Movement is medicine."
+          "Stand, stretch, walk, grab water. Movement is medicine.",
+          "83d27576-cea1-4e4c-9f0d-28db02555229"
         ]
       ],
       "tip": "Set a silent 20-minute repeating timer on your phone or watch for the next two days. After that it starts to become automatic.",
@@ -177,7 +216,8 @@
       "tomorrow": "Tomorrow: simple movement to release tension.",
       "subtitle": "The 20/20 Rule & Daily Posture Resets",
       "cta_url": "https://youtube.com/shorts/BSy7Axk_suA",
-      "cta_label": "Watch the Day 4 habit video"
+      "cta_label": "Watch: Breaking the Slouch Habit",
+      "hero_icon": "61792fb9-7de7-4877-9b6d-50c3a5fd1844"
     },
     {
       "day": 5,
@@ -189,15 +229,18 @@
       "steps": [
         [
           "Stand 2 to 3 minutes every hour",
-          "Phone calls are a great time to stand."
+          "Phone calls are a great time to stand.",
+          "57cba9eb-ae4a-4b31-831a-35fc14c3b024"
         ],
         [
           "Add simple stretches",
-          "Neck rolls, shoulder rolls and a gentle back stretch."
+          "Neck rolls, shoulder rolls and a gentle back stretch.",
+          "806c1274-71b3-46a3-82c8-c6ddb6ebc5a9"
         ],
         [
           "Hydrate and breathe",
-          "Drink water, take a few slow, deep breaths. Awareness is half the work."
+          "Drink water, take a few slow, deep breaths. Awareness is half the work.",
+          "703412dc-719c-4a85-aa20-38100575bad6"
         ]
       ],
       "tip": "Your cushion and lumbar support keep you aligned when you sit back down, so movement and support work together.",
@@ -205,7 +248,8 @@
       "tomorrow": "Tomorrow: building the strength to hold good posture.",
       "subtitle": "Daily Movement & Posture Reset",
       "cta_url": "https://youtube.com/shorts/rtztyqiaLss",
-      "cta_label": "Watch the Day 5 movement video"
+      "cta_label": "Watch: Move Better, Feel Better",
+      "hero_icon": "d2c1da48-538d-446a-b020-c65aa0aedf32"
     },
     {
       "day": 6,
@@ -217,15 +261,18 @@
       "steps": [
         [
           "Gently engage your core",
-          "Like zipping up a fitted pair of jeans. Relaxed, not rigid."
+          "Like zipping up a fitted pair of jeans. Relaxed, not rigid.",
+          "813b1dc9-33d6-4310-a832-b617d22d49a0"
         ],
         [
           "Strengthen your upper back",
-          "Shoulder-blade squeezes and chest openers counter long hours at a desk."
+          "Shoulder-blade squeezes and chest openers counter long hours at a desk.",
+          "c91c1229-7485-41f9-b489-d8a610ac375b"
         ],
         [
           "Build gradually",
-          "A few minutes a day beats one big session. Consistency over intensity."
+          "A few minutes a day beats one big session. Consistency over intensity.",
+          "6abeb76f-4913-4c70-82f6-527cd1d67d45"
         ]
       ],
       "tip": "Do 10 shoulder-blade squeezes every time you refill your water. That's your whole workout.",
@@ -233,7 +280,8 @@
       "tomorrow": "Tomorrow: the last day, and how to keep it going.",
       "subtitle": "Core Support & Posture Endurance",
       "cta_url": "https://youtube.com/shorts/N2rnrCs0v0A",
-      "cta_label": "Watch the Day 6 strength video"
+      "cta_label": "Watch: Build Strength, Not Strain",
+      "hero_icon": "82d28615-166c-4399-ad14-b3675493613c"
     },
     {
       "day": 7,
@@ -245,19 +293,23 @@
       "steps": [
         [
           "Keep your posture resets",
-          "The 20/20 check is the single most useful habit from this week."
+          "The 20/20 check is the single most useful habit from this week.",
+          "632b40d8-31ad-4aed-87c8-6cb1807cda4b"
         ],
         [
           "Recover with movement",
-          "Walk, stretch or do light strength work most days."
+          "Walk, stretch or do light strength work most days.",
+          "4f24a722-d6a6-4b17-aa8f-934db193380d"
         ],
         [
           "Listen to your body",
-          "Discomfort is a signal, not a failure. Adjust and reset."
+          "Discomfort is a signal, not a failure. Adjust and reset.",
+          "419bf3c0-2ee1-4c7f-b595-3f0fd7b98624"
         ],
         [
           "Let your support do the work",
-          "Your cushion and lumbar support keep you aligned every day."
+          "Your cushion and lumbar support keep you aligned every day.",
+          "b35e0764-6ed9-4b87-a558-caddf8304b07"
         ]
       ],
       "tip": "Bookmark the 7-Day Reset page. Run through it again any time things start to slip.",
@@ -266,7 +318,8 @@
       "finale": true,
       "subtitle": "Long-Term Habits for Lasting Results",
       "cta_url": "https://youtube.com/shorts/FbPQvwF0aw0",
-      "cta_label": "Watch the Day 7 video"
+      "cta_label": "Watch: Reset, Recover & Keep It Going",
+      "hero_icon": "bd7fcece-2538-4830-b49d-074c90199244"
     }
   ]
 }
